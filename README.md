@@ -33,14 +33,14 @@ This project is a **NodeMCU-based Home Automation System** that automates househ
 4. Build the circuit with IR, LDR, MQ2 sensors, and driver circuits.  
 5. Use the Blynk app for monitoring alerts and controlling appliances.
 
-## Circuit connection
+## Circuit Diagram
 <img width="1038" height="636" alt="image" src="https://github.com/user-attachments/assets/327e59bd-c6b3-4d51-a5c7-d26072d2fb6f" />
 
+## Circuit Connection
 <img width="862" height="639" alt="image" src="https://github.com/user-attachments/assets/aa982d3c-6c76-4182-87b8-950cb189cc0f" />
 
 ## Working Prototype
-![Uploading image.png…]()
-
+<img width="1045" height="784" alt="image" src="https://github.com/user-attachments/assets/8f02328f-40ba-41ab-b3b2-401e1779e22b" />
 
 ## Accuracy  
 The system achieves **85–90% accuracy** in intruder and fire detection across different environmental conditions.  
